@@ -36,11 +36,12 @@ p {
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
+        color:fuchsia
     }
 }
 
 a {
-    color: #219ab3;
+    color: fuchsia;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
