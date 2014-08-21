@@ -23,6 +23,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    color:fuchsia
 }
 
 p {
@@ -36,7 +37,7 @@ p {
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
-        color:fuchsia
+        color: fuchsia
     }
 }
 
