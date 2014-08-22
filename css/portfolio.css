@@ -101,7 +101,7 @@ a:focus {
 .navbar-custom .nav li a {
     -webkit-transition: background .3s;
     -moz-transition: background .3s;
-}
+    color:black
 
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
