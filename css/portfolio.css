@@ -99,9 +99,10 @@ a:focus {
 }
 
 .navbar-custom .nav li a {
-    -webkit-transition: background .3s;
-    -moz-transition: background .3s;
-    color:black
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
 
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
